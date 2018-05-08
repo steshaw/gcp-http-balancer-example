@@ -1,0 +1,1 @@
+kubectl expose deployment web --target-port=8080 --type=NodePort
